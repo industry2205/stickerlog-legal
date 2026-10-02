@@ -13,10 +13,10 @@ Questions, bug reports or ideas? Email **borabada77@gmail.com** and we'll get ba
 On the Desk, tap today's card to start a page for that day. Open the sticker drawer to place stickers, papers and tape, then drag, pinch and rotate to arrange them. Your page saves as you go.
 
 **Where do new kits come from?**  
-New kits come out over time: they're part of Tapestory Club, and you can use 2 of their stickers by watching a short video (up to 3 videos a day). Turn on Settings › New kit alerts to hear when one comes out.
+New kits come out over time: they're part of Tapestory Club, and you can use one of their stickers for each short video you watch (up to 8 videos a day). Turn on Settings › New kit alerts to hear when one comes out.
 
 **A kit is locked. How do I open it?**  
-Join Tapestory Club to open every kit, or watch a short video to use 2 stickers from any locked kit (up to 3 videos a day; new videos at midnight). Stickers you place stay on your page.
+Join Tapestory Club to open every kit, or watch a short video to use 1 sticker from any locked kit (up to 8 videos a day; new videos at midnight). Stickers you place stay on your page.
 
 **How do I restore my Club purchase?**  
 Open Tapestory Club from Settings and tap Restore, using the same Apple Account that made the purchase.

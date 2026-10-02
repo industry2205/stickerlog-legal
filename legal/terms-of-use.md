@@ -25,7 +25,7 @@ Kit artwork (stickers, papers, tapes and scenes) is licensed to you for use insi
 
 ## Tapestory Club and billing
 
-Tapestory Club is an optional subscription that opens every kit. Payment is charged to your Apple Account at confirmation of purchase. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period; renewal is charged within the 24 hours before the period ends. You can manage or cancel your subscription in your Apple Account settings. Without the Club, one short video lets you use 2 stickers from locked kits, up to 3 videos a day; parts you place stay on your page.
+Tapestory Club is an optional subscription that opens every kit. Payment is charged to your Apple Account at confirmation of purchase. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period; renewal is charged within the 24 hours before the period ends. You can manage or cancel your subscription in your Apple Account settings. Without the Club, one short video lets you use 1 sticker from a locked kit, up to 8 videos a day; parts you place stay on your page.
 
 ## Acceptable use
 
