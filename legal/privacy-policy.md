@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-*Last updated: October 2, 2026*
+*Last updated: October 3, 2026*
 
 [한국어](../ko/privacy-policy.html)
 
@@ -30,10 +30,6 @@ You can watch a short video to use 1 sticker from a locked kit, up to 8 videos a
 ## Age check
 
 Before the first video, the App asks for a birth year once. The year itself is never stored or sent anywhere; the App keeps only whether you are under 13, on your device, to choose the right kind of videos and to put a grown-up check in front of purchases and links that leave the App.
-
-## Anonymous usage statistics
-
-We use TelemetryDeck to count a small set of anonymous events (for example, that the Club screen was shown or an export finished). These signals contain no journal content, photos, names or contact details, and the identifier is a one-way hash that cannot be traced back to you.
 
 ## Notifications
 
