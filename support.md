@@ -13,7 +13,7 @@ Questions, bug reports or ideas? Email **borabada77@gmail.com** and we'll get ba
 On the Desk, tap today's card to start a page for that day. Open the sticker drawer to place stickers, papers and tape, then drag, pinch and rotate to arrange them. Your page saves as you go.
 
 **Where do new kits come from?**  
-New kits come out over time. A new weekly kit is free for everyone for its first 7 days. Turn on Settings › New kit alerts to hear when one comes out.
+New kits come out over time, and each new featured kit is free for everyone for its first 7 days. Turn on Settings › New kit alerts to hear when one comes out.
 
 **A kit is locked. How do I open it?**  
 Join Tapestory Club to open every kit, or watch a short video to open a kit for a few hours (a few passes a day; new passes at midnight). Stickers you placed stay on your page after a pass ends.
