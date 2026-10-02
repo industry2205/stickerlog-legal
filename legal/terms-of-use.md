@@ -5,7 +5,7 @@ title: Terms of Use
 
 # Terms of Use
 
-*Last updated: October 2, 2026*
+*Last updated: October 3, 2026*
 
 [한국어](../ko/terms-of-use.html)
 
@@ -13,7 +13,7 @@ These Terms govern your use of Tapestory ("the App"), made by BORABADA. By using
 
 ## License
 
-We grant you a personal, non-transferable, non-exclusive license to use the App on Apple devices you own or control, as permitted by the App Store Usage Rules.
+We grant you a personal, non-transferable, non-exclusive license to use the App on any Apple-branded products that you own or control, as permitted by the App Store Usage Rules.
 
 ## Your pages
 
@@ -61,7 +61,7 @@ BORABADA, not Apple, is responsible for addressing any claims from you or a thir
 
 ## Legal compliance
 
-You represent and warrant that you are not located in a country that is subject to a U.S. Government embargo or that has been designated by the U.S. Government as a "terrorist supporting" country, and that you are not listed on any U.S. Government list of prohibited or restricted parties. You also agree to comply with any applicable third-party terms when using the App.
+You represent and warrant that you are not located in a country that is subject to a U.S. Government embargo or that has been designated by the U.S. Government as a "terrorist supporting" country, and that you are not listed on any U.S. Government list of prohibited or restricted parties. You must also comply with applicable third-party terms of agreement when using the App.
 
 ## Apple as third-party beneficiary
 
