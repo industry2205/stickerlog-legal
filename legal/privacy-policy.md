@@ -23,9 +23,9 @@ When you add a photo, you choose it with the iOS photo picker; the App only rece
 
 Tapestory Club is optional. Payments are processed by Apple. We use RevenueCat to check your subscription status; it receives a randomly generated user identifier and your App Store purchase information, not your name or contact details.
 
-## Videos for kit passes
+## Videos for stickers
 
-You can watch a short video to open a kit for a few hours. These videos are served by Google AdMob. Ads are always requested as non-personalized, and when the App is used by a child they are also marked as child-directed and limited to general-audience content. To deliver and measure the ad, Google may process information such as your IP address (which gives an approximate location), device identifiers and how you interacted with the ad, as described in Google's privacy policy. In the EEA, the UK and Switzerland, Google's consent form asks for your choice before any video is requested.
+You can watch a short video to use 2 stickers from locked kits, up to 3 videos a day. Parts you place stay on your page. These videos are served by Google AdMob. Ads are always requested as non-personalized, and when the App is used by a child they are also marked as child-directed and limited to general-audience content. To deliver and measure the ad, Google may process information such as your IP address (which gives an approximate location), device identifiers and how you interacted with the ad, as described in Google's privacy policy. In the EEA, the UK and Switzerland, Google's consent form asks for your choice before any video is requested. To report an ad, use Settings › Report an ad.
 
 ## Age check
 
