@@ -13,7 +13,7 @@ Tapestory ("the App", "we") is made by BORABADA. Tapestory works without account
 
 ## Your journal stays on your device
 
-Your pages, notebooks, page history, the photos you add and the text you write are stored on your iPhone or iPad. We run no servers for your journal and cannot see, collect or access any of it. If iCloud sync is available and turned on, your journal is copied to your own private iCloud storage under your Apple Account; we have no access to it there either.
+Your pages, notebooks, page history, the photos you add and the text you write are stored on your iPhone or iPad. We run no servers for your journal and cannot see, collect or access any of it. Tapestory also backs up your journal to your own iCloud Drive once a day and keeps the newest five backups (Settings › Your pages › iCloud backup, where you can turn "Back up every day" off). Those files are stored under your Apple Account; we have no access to them either.
 
 ## Photos
 
@@ -25,7 +25,7 @@ Tapestory Club is optional. Payments are processed by Apple. We use RevenueCat t
 
 ## Videos for stickers
 
-You can watch a short video to use 1 sticker from a locked kit, up to 8 videos a day. Parts you place stay on your page. These videos are served by Google AdMob. Ads are always requested as non-personalized, and when the App is used by a child they are also marked as child-directed and limited to general-audience content. To deliver and measure the ad, Google may process information such as your IP address (which gives an approximate location), device identifiers and how you interacted with the ad, as described in Google's privacy policy. In the EEA, the UK and Switzerland, Google's consent form asks for your choice before any video is requested. To report an ad, use Settings › Report an ad.
+You can watch a short video to use 1 sticker from a locked kit, up to 8 videos a day. Parts you place stay on your page. These videos are served by Google AdMob. Ads are always requested as non-personalized, and when the App is used by a child they are also marked as child-directed and limited to general-audience content. To deliver and measure the ad, Google may process information such as your IP address (which gives an approximate location), device identifiers and how you interacted with the ad, as described in Google's privacy policy. In the EEA, the UK and Switzerland, Google's consent form asks for your choice before any video is requested. Where that form applies, you can change or withdraw your choice at any time in Settings › Privacy › Ad privacy choices. To report an ad, use Settings › Help & about › Report an ad.
 
 ## Age check
 
@@ -45,7 +45,7 @@ We do not use accounts or logins. We do not sell, rent or share your personal da
 
 ## Keeping and deleting your data
 
-Your journal stays until you delete it. Deleted pages and notebooks are kept in the trash for 30 days, then removed for good. Deleting the App removes everything stored on the device. Settings › Export all pages lets you take a copy of your pages at any time.
+Your journal stays until you delete it. Deleted pages and notebooks are kept in the trash for 30 days, then removed for good from the device; copies inside your iCloud backups stay until newer backups replace them or you delete those backup files in the Files app. Deleting the App removes everything stored on the device. Settings › Your pages › Export all pages lets you take a copy of your pages at any time.
 
 ## Children
 

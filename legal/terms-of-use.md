@@ -33,7 +33,7 @@ Do not use the App to break the law or to infringe anyone's rights, and do not a
 
 ## Your data and backups
 
-Your journal is stored on your device (and in your own iCloud, if sync is available and on). You are responsible for keeping copies of anything you cannot afford to lose; Settings › Export all pages makes a copy at any time.
+Your journal is stored on your device (and in your own iCloud Drive, while iCloud backup is on). You are responsible for keeping copies of anything you cannot afford to lose; Settings › Your pages › Export all pages makes a copy at any time.
 
 ## Disclaimers
 
