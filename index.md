@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Tapestory
+title: Stickerlog
 ---
 
-# Tapestory
+# Stickerlog
 
 Stack washi-tape scenes into a sticker journal page by page.
 
