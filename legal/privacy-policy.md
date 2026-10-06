@@ -9,11 +9,11 @@ title: Privacy Policy
 
 [한국어](../ko/privacy-policy.html)
 
-Stickerlog ("the App", "we") is made by BORABADA. Stickerlog works without accounts and keeps your journal on your device. This policy explains what the App does, and does not, collect.
+Vinette ("the App", "we") is made by BORABADA. Vinette works without accounts and keeps your journal on your device. This policy explains what the App does, and does not, collect.
 
 ## Your journal stays on your device
 
-Your pages, notebooks, page history, the photos you add and the text you write are stored on your iPhone or iPad. We run no servers for your journal and cannot see, collect or access any of it. Stickerlog also backs up your journal to your own iCloud Drive once a day and keeps the newest five backups (Settings › Your pages › iCloud backup, where you can turn "Back up every day" off). Those files are stored under your Apple Account; we have no access to them either.
+Your pages, notebooks, page history, the photos you add and the text you write are stored on your iPhone or iPad. We run no servers for your journal and cannot see, collect or access any of it. Vinette also backs up your journal to your own iCloud Drive once a day and keeps the newest five backups (Settings › Your pages › iCloud backup, where you can turn "Back up every day" off). Those files are stored under your Apple Account; we have no access to them either.
 
 ## Photos
 
@@ -21,7 +21,7 @@ When you add a photo, you choose it with the iOS photo picker; the App only rece
 
 ## Purchases
 
-Stickerlog Club is optional. Payments are processed by Apple. We use RevenueCat to check your subscription status; it receives a randomly generated user identifier and your App Store purchase information, not your name or contact details.
+Vinette Club is optional. Payments are processed by Apple. We use RevenueCat to check your subscription status; it receives a randomly generated user identifier and your App Store purchase information, not your name or contact details.
 
 ## Videos for stickers
 
@@ -49,7 +49,7 @@ Your journal stays until you delete it. Deleted pages and notebooks are kept in 
 
 ## Children
 
-Stickerlog can be used by children with a parent or guardian. We do not knowingly collect personal information from children: the journal stays on the device, ads are non-personalized and child-directed for children, and purchases and external links sit behind a grown-up check.
+Vinette can be used by children with a parent or guardian. We do not knowingly collect personal information from children: the journal stays on the device, ads are non-personalized and child-directed for children, and purchases and external links sit behind a grown-up check.
 
 ## Changes to this policy
 

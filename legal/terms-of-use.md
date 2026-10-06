@@ -9,7 +9,7 @@ title: Terms of Use
 
 [한국어](../ko/terms-of-use.html)
 
-These Terms govern your use of Stickerlog ("the App"), made by BORABADA. By using the App you agree to them.
+These Terms govern your use of Vinette ("the App"), made by BORABADA. By using the App you agree to them.
 
 ## License
 
@@ -17,15 +17,15 @@ We grant you a personal, non-transferable, non-exclusive license to use the App 
 
 ## Your pages
 
-What you make in Stickerlog is yours. Your writing, your photos and the pages you compose stay yours, and we claim no rights in them.
+What you make in Vinette is yours. Your writing, your photos and the pages you compose stay yours, and we claim no rights in them.
 
 ## Kits and stickers
 
 Kit artwork (stickers, papers, tapes and scenes) is licensed to you for use inside the App, and for personal, non-commercial use of the pages and videos you make with it — keeping, printing and sharing them with friends and family or on social media. You may not extract, resell or redistribute the artwork itself, or use it in products or services of your own.
 
-## Stickerlog Club and billing
+## Vinette Club and billing
 
-Stickerlog Club is an optional subscription that opens every kit. Payment is charged to your Apple Account at confirmation of purchase. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period; renewal is charged within the 24 hours before the period ends. You can manage or cancel your subscription in your Apple Account settings. Without the Club, one short video lets you use 1 sticker from a locked kit, up to 8 videos a day; parts you place stay on your page.
+Vinette Club is an optional subscription that opens every kit. Payment is charged to your Apple Account at confirmation of purchase. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period; renewal is charged within the 24 hours before the period ends. You can manage or cancel your subscription in your Apple Account settings. Without the Club, one short video lets you use 1 sticker from a locked kit, up to 8 videos a day; parts you place stay on your page.
 
 ## Acceptable use
 

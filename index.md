@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Stickerlog
+title: Vinette
 ---
 
-# Stickerlog
+# Vinette
 
 Stack washi-tape scenes into a sticker journal page by page.
 
