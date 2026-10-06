@@ -7,4 +7,4 @@ theme: jekyll-theme-minimal
 lang: en
 # REQUIRED for a project site — without baseurl the stylesheet 404s and reviewers see an unstyled page.
 url: https://industry2205.github.io
-baseurl: /tapestory-legal
+baseurl: /stickerlog-legal
