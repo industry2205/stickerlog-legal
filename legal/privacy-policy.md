@@ -9,11 +9,11 @@ title: Privacy Policy
 
 [한국어](../ko/privacy-policy.html)
 
-Vinette ("the App", "we") is made by BORABADA. Vinette works without accounts and keeps your journal on your device. This policy explains what the App does, and does not, collect.
+Vinette ("the App", "we") is made by BORABADA. Vinette works without accounts and keeps your diaries on your device. This policy explains what the App does, and does not, collect.
 
-## Your journal stays on your device
+## Your diaries stay on your device
 
-Your pages, notebooks, page history, the photos you add and the text you write are stored on your iPhone or iPad. We run no servers for your journal and cannot see, collect or access any of it. Vinette also backs up your journal to your own iCloud Drive once a day and keeps the newest five backups (Settings › Your pages › iCloud backup, where you can turn "Back up every day" off). Those files are stored under your Apple Account; we have no access to them either.
+Your pages, diaries, page history, the photos you add and the text you write are stored on your iPhone or iPad. We run no servers for your diaries and cannot see, collect or access any of it. Vinette also backs up your diaries to your own iCloud Drive once a day and keeps the newest five backups (Settings › Your pages › iCloud backup, where you can turn "Back up every day" off). Those files are stored under your Apple Account; we have no access to them either.
 
 ## Photos
 
@@ -45,11 +45,11 @@ We do not use accounts or logins. We do not sell, rent or share your personal da
 
 ## Keeping and deleting your data
 
-Your journal stays until you delete it. Deleted pages and notebooks are kept in the trash for 30 days, then removed for good from the device; copies inside your iCloud backups stay until newer backups replace them or you delete those backup files in the Files app. Deleting the App removes everything stored on the device. Settings › Your pages › Export all pages lets you take a copy of your pages at any time.
+Your diaries stay until you delete them. Deleted pages and diaries are kept in the trash for 30 days, then removed for good from the device; copies inside your iCloud backups stay until newer backups replace them or you delete those backup files in the Files app. Deleting the App removes everything stored on the device. Settings › Your pages › Export all pages lets you take a copy of your pages at any time.
 
 ## Children
 
-Vinette can be used by children with a parent or guardian. We do not knowingly collect personal information from children: the journal stays on the device, ads are non-personalized and child-directed for children, and purchases and external links sit behind a grown-up check.
+Vinette can be used by children with a parent or guardian. We do not knowingly collect personal information from children: the diaries stay on the device, ads are non-personalized and child-directed for children, and purchases and external links sit behind a grown-up check.
 
 ## Changes to this policy
 

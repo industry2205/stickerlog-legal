@@ -25,7 +25,7 @@ Kit artwork (stickers, papers, tapes and scenes) is licensed to you for use insi
 
 ## Vinette Club and billing
 
-Vinette Club is an optional subscription that opens every kit. Payment is charged to your Apple Account at confirmation of purchase. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period; renewal is charged within the 24 hours before the period ends. You can manage or cancel your subscription in your Apple Account settings. Without the Club, one short video lets you use 1 sticker from a locked kit, up to 8 videos a day; parts you place stay on your page.
+Vinette Club is an optional subscription that opens every kit. Payment is charged to your Apple Account at confirmation of purchase. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period; renewal is charged within the 24 hours before the period ends. You can manage or cancel your subscription in your Apple Account settings. Without the Club, one short video lets you use 1 sticker from a locked kit, up to 8 videos a day; parts you place stay on your page.
 
 ## Acceptable use
 
@@ -33,7 +33,7 @@ Do not use the App to break the law or to infringe anyone's rights, and do not a
 
 ## Your data and backups
 
-Your journal is stored on your device (and in your own iCloud Drive, while iCloud backup is on). You are responsible for keeping copies of anything you cannot afford to lose; Settings › Your pages › Export all pages makes a copy at any time.
+Your diaries are stored on your device (and in your own iCloud Drive, while iCloud backup is on). You are responsible for keeping copies of anything you cannot afford to lose; Settings › Your pages › Export all pages makes a copy at any time.
 
 ## Disclaimers
 
