@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-*Last updated: October 6, 2026*
+*Last updated: October 8, 2026*
 
 [한국어](../ko/privacy-policy.html)
 
@@ -25,7 +25,7 @@ Vinette Club is optional. Payments are processed by Apple. We use RevenueCat to 
 
 ## Videos for stickers
 
-You can watch a short video to use 1 sticker from a locked kit, up to 8 videos a day. Parts you place stay on your page. These videos are served by Google AdMob. Ads are always requested as non-personalized, and when the App is used by a child they are also marked as child-directed and limited to general-audience content. To deliver and measure the ad, Google may process information such as your IP address (which gives an approximate location), device identifiers and how you interacted with the ad, as described in Google's privacy policy. In the EEA, the UK and Switzerland, Google's consent form asks for your choice before any video is requested. Where that form applies, you can change or withdraw your choice at any time in Settings › Privacy › Ad privacy choices. To report an ad, use Settings › Help & about › Report an ad.
+You can watch a short video to use 1 sticker from a locked kit, up to 8 videos a day. Parts you place stay on your page. These videos are served by Google AdMob. Ads are always requested as non-personalized, and when the App is used by a child they are also marked as child-directed and limited to general-audience content. The App does not track you and never asks to. In the EEA, the UK and Switzerland, Google serves limited ads, which use no personalization. To deliver and measure the ad, Google may process information such as your IP address (which gives an approximate location), device identifiers and how you interacted with the ad, as described in Google's privacy policy. To report an ad, use Settings › Help & about › Report an ad.
 
 ## Age check
 
